@@ -27,6 +27,14 @@ namespace Fundamentos01
             Console.WriteLine();
             Reatribuicao reatribuicao = new Reatribuicao();
             reatribuicao.Executar();
+            Console.WriteLine();
+            TipoObjet tipoObjet = new TipoObjet();
+            tipoObjet.Executar();
+            Console.WriteLine();
+            DemosntraçaoTipos demosntraçaoTipos = new DemosntraçaoTipos();
+            demosntraçaoTipos.Executar();
+
+
 
             
 
