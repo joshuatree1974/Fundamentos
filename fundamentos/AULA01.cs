@@ -18,8 +18,15 @@ namespace Fundamentos01
             operadoresAritmeticos.Executar();Console.WriteLine();
             OperadoresComparacao operadoresComparacao = new OperadoresComparacao();
             operadoresComparacao.Executar();
+            Console.WriteLine();
+            OperadoresLogicos operadoresLogicos = new OperadoresLogicos();
+            operadoresLogicos.Executar();
+            Console.WriteLine();
+            VariaveisBasicas variaveisBasicas = new VariaveisBasicas();
+            variaveisBasicas.Executar();
+            Console.WriteLine();
 
-
+            
 
 
 
