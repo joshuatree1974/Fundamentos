@@ -25,6 +25,8 @@ namespace Fundamentos01
             VariaveisBasicas variaveisBasicas = new VariaveisBasicas();
             variaveisBasicas.Executar();
             Console.WriteLine();
+            Reatribuicao reatribuicao = new Reatribuicao();
+            reatribuicao.Executar();
 
             
 
