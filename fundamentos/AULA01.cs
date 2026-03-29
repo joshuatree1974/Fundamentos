@@ -10,7 +10,8 @@ namespace Fundamentos01
         {
             
             this.ExibirCabecalho();
-
+            Variaveisetipodedados variaveisetipodedados = new Variaveisetipodedados();
+            variaveisetipodedados.Executar();
 
 
 
