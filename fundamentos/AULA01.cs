@@ -1,4 +1,5 @@
 using System;
+using Fundamentos;
 
 namespace Fundamentos01
 {
@@ -14,7 +15,9 @@ namespace Fundamentos01
             variaveisetipodedados.Executar();
             Console.WriteLine();
             OperadoresAritmeticos operadoresAritmeticos = new OperadoresAritmeticos();
-            operadoresAritmeticos.Executar();
+            operadoresAritmeticos.Executar();Console.WriteLine();
+            OperadoresComparacao operadoresComparacao = new OperadoresComparacao();
+            operadoresComparacao.Executar();
 
 
 
