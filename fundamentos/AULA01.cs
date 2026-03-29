@@ -12,6 +12,9 @@ namespace Fundamentos01
             this.ExibirCabecalho();
             Variaveisetipodedados variaveisetipodedados = new Variaveisetipodedados();
             variaveisetipodedados.Executar();
+            Console.WriteLine();
+            OperadoresAritmeticos operadoresAritmeticos = new OperadoresAritmeticos();
+            operadoresAritmeticos.Executar();
 
 
 
