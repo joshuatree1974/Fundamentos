@@ -68,6 +68,10 @@ namespace Fundamentos01
              Console.WriteLine(); 
              ClassificaçaodeNumeros classificaçaodeNumeros = new ClassificaçaodeNumeros();
              classificaçaodeNumeros.Executar();
+
+             Console.WriteLine(); 
+             ParouImpar parouImpar = new ParouImpar();
+             parouImpar.Executar();
             
 
 
