@@ -58,7 +58,11 @@ namespace Fundamentos01
             AreaRetanguloImput areaRetanguloImput = new AreaRetanguloImput();
             areaRetangulo.Executar();
 
-
+            
+             Console.WriteLine();
+             EstruturasControleBasicas estruturasControleBasicas = new EstruturasControleBasicas();
+             estruturasControleBasicas.ExecutarIfElse();
+             estruturasControleBasicas.ExecutarSwitchCase();
 
             
 
