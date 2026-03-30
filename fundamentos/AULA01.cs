@@ -42,6 +42,12 @@ namespace Fundamentos01
             Console.WriteLine();
             Exercicio3not exercicio3Not = new Exercicio3not();
             exercicio3Not.Executar();
+            Console.WriteLine();
+            Exercicio4comb exercicio4Comb = new Exercicio4comb();
+            exercicio4Comb.Executar();
+            Console.WriteLine();
+            Exercicio5tabverd exercicio5Tabverd = new Exercicio5tabverd();
+            exercicio5Tabverd.Executar();
 
 
 
