@@ -48,6 +48,15 @@ namespace Fundamentos01
             Console.WriteLine();
             Exercicio5tabverd exercicio5Tabverd = new Exercicio5tabverd();
             exercicio5Tabverd.Executar();
+            Console.WriteLine();
+            SomaeSubtraçao somaeSubtraçao = new SomaeSubtraçao();
+            somaeSubtraçao.Executar();
+            Console.WriteLine();
+            AreaRetangulo areaRetangulo = new AreaRetangulo();
+            areaRetangulo.Executar();
+            Console.WriteLine();
+            AreaRetanguloImput areaRetanguloImput = new AreaRetanguloImput();
+            areaRetangulo.Executar();
 
 
 
