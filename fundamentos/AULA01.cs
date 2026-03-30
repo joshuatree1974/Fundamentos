@@ -39,6 +39,9 @@ namespace Fundamentos01
             Console.WriteLine();
             Exercicio2or exercicio2Or = new Exercicio2or();
             exercicio2Or.Executar();
+            Console.WriteLine();
+            Exercicio3not exercicio3Not = new Exercicio3not();
+            exercicio3Not.Executar();
 
 
 
