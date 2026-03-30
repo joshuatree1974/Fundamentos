@@ -33,6 +33,9 @@ namespace Fundamentos01
             Console.WriteLine();
             DemosntraçaoTipos demosntraçaoTipos = new DemosntraçaoTipos();
             demosntraçaoTipos.Executar();
+            Console.WriteLine();
+            Exercicio1and exercicio1And = new Exercicio1and();
+            exercicio1And.Executar();
 
 
 
