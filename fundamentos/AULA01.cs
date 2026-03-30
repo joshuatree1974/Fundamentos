@@ -72,6 +72,10 @@ namespace Fundamentos01
              Console.WriteLine(); 
              ParouImpar parouImpar = new ParouImpar();
              parouImpar.Executar();
+
+            Console.WriteLine(); 
+            DiasdaSemana diasdaSemana = new DiasdaSemana();
+            diasdaSemana.Executar();
             
 
 
