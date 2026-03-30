@@ -76,6 +76,10 @@ namespace Fundamentos01
             Console.WriteLine(); 
             DiasdaSemana diasdaSemana = new DiasdaSemana();
             diasdaSemana.Executar();
+
+            Console.WriteLine(); 
+            Autenticação autenticação = new Autenticação();
+            autenticação.Executar();
             
 
 
