@@ -64,6 +64,10 @@ namespace Fundamentos01
              estruturasControleBasicas.ExecutarIfElse();
              estruturasControleBasicas.ExecutarSwitchCase();
 
+
+             Console.WriteLine(); 
+             ClassificaçaodeNumeros classificaçaodeNumeros = new ClassificaçaodeNumeros();
+             classificaçaodeNumeros.Executar();
             
 
 
